@@ -11,7 +11,7 @@ and visualizing data with histograms, boxplots, violin plots, and correlation an
 - **Seaborn** – Advanced visualizations  
 
 ---
-
+The Project Covers:
 ## 🔍 Features & Analysis
 
 1. **Dataset Overview & Cleaning**  
