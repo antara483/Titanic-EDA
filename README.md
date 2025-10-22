@@ -14,16 +14,16 @@ and visualizing data with histograms, boxplots, violin plots, and correlation an
 The Project Covers:
 ## 🔍 Features & Analysis
 
-1. **Dataset Overview & Cleaning**  
+**1. Dataset Overview & Cleaning**  
   -  I started by exploring the Titanic dataset — checking its shape, columns, and data types to understand what kind of data I was working with.
   -  Then I looked for missing values and handled them to make the dataset clean and ready for analysis. 
 
-2. **Summary Statistics**  
+**2. Summary Statistics**  
    I generated summary statistics for both numerical and categorical features.
   -  For numerical columns, I looked at the mean, median, standard deviation, and range to understand their distribution.
   -  For categorical features, I checked how many unique values they had and which categories were most common. 
 
-3. **Visualization**
+**3. Visualization**
    To better understand the data, I created several visualization 
   - **Histograms** to see how numerical features like Age and Fare were distributed.
   - **Boxplots** to detect outliers and compare distributions.
@@ -32,7 +32,7 @@ The Project Covers:
   - **Bar plots** showing survival rates across Age Groups, Sex, and Passenger Class.
   - **Violin plots** to see how Age varied by Class and Survival status. 
 
-4. **Feature Engineering**  
+**4. Feature Engineering**  
   -  I added a new feature called AgeGroup, which divides passengers into categories — Child, Teen, Adult, Middle-aged, and Senior.
   -  This helped me analyze how survival rates differed across age groups.
 
