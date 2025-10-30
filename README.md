@@ -2,6 +2,8 @@
 A data analysis and visualization project on the Titanic dataset, exploring passenger survival patterns. This project focuses on summarizing, 
 and visualizing data with histograms, boxplots, violin plots, and correlation analysis to uncover trends and insights in survival across age, gender, and class.
 
+Dataset[https://www.kaggle.com/datasets/yasserh/titanic-dataset]
+
 ## 🛠 Tools & Libraries Used
 
 - **Python 3.x**  
