@@ -2,6 +2,24 @@
 A data analysis and visualization project on the Titanic dataset, exploring passenger survival patterns. This project focuses on summarizing, 
 and visualizing data with histograms, boxplots, violin plots, and correlation analysis to uncover trends and insights in survival across age, gender, and class.
 
+## 🖼️ Model Output
+
+Here’s how the Correlation Heatmap looks:
+
+![Confusion Matrix](images/Screenshot%201.png)
+
+Here’s the Survival Rate by Class and Sex:
+
+![Accuracy Score](images/Screenshot%202.png)
+
+Here’s the Survived By AgeGroup:
+
+![Accuracy Score](images/Screenshot%203.png)
+
+And Here’s the Age Distribution By Passenger Class and Survival on the Titanic:
+
+![Accuracy Score](images/Screenshot%204.png)
+
 Dataset[https://www.kaggle.com/datasets/yasserh/titanic-dataset]
 
 ## 🛠 Tools & Libraries Used
